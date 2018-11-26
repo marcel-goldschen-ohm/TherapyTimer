@@ -1,4 +1,5 @@
-# TherapyTimer
+# Therapy Timer iOS app (not released yet)
+
 Tx Session Timers &amp; Reports for Occupational Therapists
 
 ## Privacy Policy
